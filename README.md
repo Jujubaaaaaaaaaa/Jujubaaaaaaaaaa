@@ -1,14 +1,14 @@
 ### Hi there 👋
-My Nick is Jujuba♤.
-I'm Brazilian and I'm 17
+Meu Nick é Jujuba♤.
+Sou brasileira e tenho 17 anos.
 <!--
 **Jujubaaaaaaaaaa/Jujubaaaaaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on a Company as a trainee in the administrative sector.
-- 🌱 I’m currently learning something about programming and digital design.
-- 👯 I’m looking to collaborate on new litle projects.
-- 🤔 I’m looking for help with nothing at all for now, beacuse I'm too new to all of this.
-- 💬 Ask me about anything! I like to have conversations about everything ;)
-- 📫 How to reach me: @joyce_caroline2000
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: One of my new plans is to build my own computer😆/
+- 🔭 Atualmente estou trabalhando em uma empresa como estagiário no setor administrativo.
+- 🌱 Atualmente estou aprendendo um pouco programação e design digital.
+- 👯 Estou procurando colaborar em novos pequenos projetos.
+- 🤔 Estou procurando ajuda em TUDO.
+- 💬 Pergunte-me sobre qualquer coisa! Gosto de conversar sobre tudo ;)
+- 📫 Como me encontrar: @joyce_caroline2000
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: um dos meus novos planos é construir meu próprio computador😆/
